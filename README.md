@@ -18,6 +18,11 @@ Measure data quality using percentages and counts.
 
 Provide interactive filters for quick drill-down by location, company, and designation.
 
+## Dashboard Preview
+
+![Tap Savvy Network - Data Quality Dashboard](https://github.com/durgesh2003dsp/Tap-Savvy-Network-Data-Quality-Dashboard-Internship-Project-/blob/main/Tap%20savvy%20network.PNG?raw=true)
+
+
 # **3. Dashboard Features**
 ### 3.1 KPI Highlights
 
